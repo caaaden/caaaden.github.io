@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme: "mmistakes/minimal-mistakes@v8.5.0"  # 버전을 명시하여 안정적인 테마 사용
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"  # 버전을 명시하여 안정적인 테마 사용
 minimal_mistakes_skin: "default"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
