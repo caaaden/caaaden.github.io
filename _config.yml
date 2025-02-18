@@ -114,7 +114,7 @@ analytics:
 author:
   name: "Caden"
   avatar:  /assets/images/bio-photo.webp # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Problem Solving에 미친 사"
+  bio: # "Problem Solving에 미친 사람"
   location: "Somewhere"
   email:
   links:
